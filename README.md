@@ -59,12 +59,6 @@ The agent follows a four-step process:
 - `CPIAUCSL` - Consumer Price Index
 .....and many more find at https://fred.stlouisfed.org/
 
-## Troubleshooting
-
-**"Invalid API key" errors**
-- Check that your `.env` file exists in the same directory
-- Verify API key is correct with no extra spaces
-
 
 ## Additional Resources
 
