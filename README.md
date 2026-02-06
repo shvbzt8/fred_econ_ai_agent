@@ -1,6 +1,6 @@
 # FRED Economic Data AI Agent 
 
-An AI agent using **Google's NEW GenAI SDK (2025)** to answer economic questions by fetching and analyzing data from FRED.
+An AI agent using **Google's GenAI SDK (2025)** to answer economic questions by fetching and analyzing data from FRED.
 
 ## Setup Instructions
 
